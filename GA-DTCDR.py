@@ -259,9 +259,9 @@ class Model:
             tf.reduce_sum(tf.square(user_out_B), axis=1))
         norm_item_output_B = tf.sqrt(
             tf.reduce_sum(tf.square(item_out_B), axis=1))
-        self.regularizer_A = tf.nn.l2_loss(user_input_A) + tf.nn.l2_loss(
+        self.regularizer_A = tf.nn.l2_loss(user_out_A) + tf.nn.l2_loss(
             item_out_A)
-        self.regularizer_B = tf.nn.l2_loss(user_input_B) + tf.nn.l2_loss(
+        self.regularizer_B = tf.nn.l2_loss(user_out_B) + tf.nn.l2_loss(
             item_out_B)
         self.y_A = tf.reduce_sum(
             tf.multiply(user_out_A, item_out_A), axis=1,
