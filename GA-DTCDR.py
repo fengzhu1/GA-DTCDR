@@ -406,9 +406,9 @@ class Model:
                 losses_B.append(tmp_loss_B)
             if verbose and i % verbose == 0:
                 sys.stdout.write('\r{} / {} : loss = {};'.format(
-                    i, num_batches_A, np.mean(losses_A[-verbose:])))
+                    i, max_num_batches, np.mean(losses_A[-verbose:])))
                 sys.stdout.write('\r{} / {} : loss = {}'.format(
-                    i, num_batches_B, np.mean(losses_B[-verbose:])))
+                    i, max_num_batches, np.mean(losses_B[-verbose:])))
                 sys.stdout.flush()
         loss_A = np.mean(losses_A)
         loss_B = np.mean(losses_B)
