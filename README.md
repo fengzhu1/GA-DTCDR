@@ -4,8 +4,8 @@ GA-DTCDR is an optimized model for DTCDR ("DTCDR: A Framework for Dual-Target Cr
 DTCDR is the first work for dual-target cross-domain recommendation. Compared with DTCDR, we improved the embedding strategy (from DMF/NeuMF to Graph Embedding) and combination strategy (from fixed combination operators to element-wise attention). 
 
 # Citations
-@article{zhugraphical,\\
-  title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},\\
+@article{zhugraphical,
+  title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},
   author={Zhu, Feng and Wang, Yan and Chen, Chaochao and Liu, Guanfeng and Zheng, Xiaolin},
   booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
   pages={1533--1542},
