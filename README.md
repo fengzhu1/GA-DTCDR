@@ -7,7 +7,7 @@ DTCDR is the first work for dual-target cross-domain recommendation. Compared wi
 @article{zhugraphical,
   title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},
   author={Zhu, Feng and Wang, Yan and Chen, Chaochao and Liu, Guanfeng and Zheng, Xiaolin},
-  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management, CIKM 2019},
   pages={1533--1542},
   year={2019}
 }
@@ -15,7 +15,7 @@ DTCDR is the first work for dual-target cross-domain recommendation. Compared wi
 @inproceedings{zhu2019dtcdr,
   title={DTCDR: A framework for dual-target cross-domain recommendation},
   author={Zhu, Feng and Chen, Chaochao and Wang, Yan and Liu, Guanfeng and Zheng, Xiaolin},
-  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI} 2020},
+  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020},
   pages={3001--3008},
   year={2020}
 }
