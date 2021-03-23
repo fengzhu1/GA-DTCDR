@@ -3,7 +3,7 @@
 Created on Fri Aug 17 12:20:19 2018
 Generate user and item vectors by learning their profiles, item details, and reviews
 @author: Feng Zhu
-Function Doc2vec for Cross-Domain Recommendation (Datasets: DoubanMoive & DoubanBook)
+Function Doc2vec for Cross-Domain Recommendation (Datasets: DoubanMoive & DoubanBook & DoubanMusic)
 Based on the model Dov2vec:"https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec"
 """
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
