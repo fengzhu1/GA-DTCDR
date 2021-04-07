@@ -21,3 +21,5 @@ As for the doc2vec code and the raw data including text information, I did not g
   pages={3001--3008},
   year={2020}
 }
+# Running
+python GA-DTCDR.py
