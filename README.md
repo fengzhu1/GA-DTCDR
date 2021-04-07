@@ -6,6 +6,15 @@ DTCDR is the first work for dual-target cross-domain recommendation. Compared wi
 As for the doc2vec code and the raw data including text information, I did not generate the desensitization dataset. I will share the desensitization raw data later. If you want to learn how to use Doc2vec, you can visit https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec.
 
 # Citations
+If you want to use our code or dataset, you should cite the following papers (at least one paper) in your submissions.
+
+@inproceedings{zhugraphical,
+  title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},
+  author={Zhu, Feng and Wang, Yan and Chen, Chaochao and Liu, Guanfeng and Zheng, Xiaolin},
+  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020},
+  pages={3001--3008},
+  year={2020}
+}
 
 @inproceedings{zhu2019dtcdr,
   title={DTCDR: A framework for dual-target cross-domain recommendation},
@@ -15,13 +24,6 @@ As for the doc2vec code and the raw data including text information, I did not g
   year={2019}
 }
 
-@inproceedings{zhugraphical,
-  title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},
-  author={Zhu, Feng and Wang, Yan and Chen, Chaochao and Liu, Guanfeng and Zheng, Xiaolin},
-  booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020},
-  pages={3001--3008},
-  year={2020}
-}
 # Running
 (1) Requirements:
 
