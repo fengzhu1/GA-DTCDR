@@ -22,4 +22,8 @@ As for the doc2vec code and the raw data including text information, I did not g
   year={2020}
 }
 # Running
+(1) Requirements:
+pip install gensim
+pip install node2vec
+(2) Running:
 python GA-DTCDR.py
