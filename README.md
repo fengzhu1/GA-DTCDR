@@ -7,7 +7,8 @@ As for the doc2vec code and the raw data including text information, I have shar
 
 # Raw Douban Dataset (reviews, item details, user profiles, tags, and ratings)
 Due to the size limit (the file size of raw dataset is too large), so I upload the raw dataset at ResearchGate.
-url: https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews
+
+Url: https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews
 
 # Citations
 If you want to use our code or dataset, you should cite the following papers (at least one paper) in your submissions.
