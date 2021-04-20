@@ -6,7 +6,8 @@ DTCDR is the first work for dual-target cross-domain recommendation. Compared wi
 As for the doc2vec code and the raw data including text information, I have shared the desensitization raw data at https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews. If you want to learn how to use Doc2vec, you can visit https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec.
 
 # Raw Douban Dataset (reviews, item details, user profiles, tags, and ratings)
-I have shared the raw data at researchgate (https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews)
+Due to the size limit (the file size of raw dataset is too large), so I upload the raw dataset at ResearchGate.
+url: https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews
 
 # Citations
 If you want to use our code or dataset, you should cite the following papers (at least one paper) in your submissions.
