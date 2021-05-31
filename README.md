@@ -13,7 +13,7 @@ Url: https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_i
 # Citations
 If you want to use our code or dataset, you should cite the following papers (at least one paper) in your submissions.
 
-@inproceedings{zhugraphical,
+$@inproceedings{zhugraphical,
   title={A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation},
   author={Zhu, Feng and Wang, Yan and Chen, Chaochao and Liu, Guanfeng and Zheng, Xiaolin},
   booktitle={Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI 2020},
@@ -21,7 +21,7 @@ If you want to use our code or dataset, you should cite the following papers (at
   year={2020}
 }
 
-@inproceedings{zhu2019dtcdr,
+$@inproceedings{zhu2019dtcdr,
   title={DTCDR: A framework for dual-target cross-domain recommendation},
   author={Zhu, Feng and Chen, Chaochao and Wang, Yan and Liu, Guanfeng and Zheng, Xiaolin},
   booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
