@@ -30,12 +30,14 @@ If you want to use our code or dataset, you should cite the following papers (at
 }
 
 # Running
-(1) Requirements:
+(1) Tensorflow Version: 1.8.1
+
+(2) Requirements:
 
 pip install gensim
 
 pip install node2vec
 
-(2) Running:
+(3) Running:
 
 python GA-DTCDR.py
