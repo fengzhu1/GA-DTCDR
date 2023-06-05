@@ -1,7 +1,7 @@
 # GA-DTCDR
 This is the model in "A Graphical and Attentional Framework for Dual-Target Cross-Domain Recommendation" (IJCAI2020).
 GA-DTCDR is an optimized model for DTCDR ("DTCDR: A Framework for Dual-Target Cross-Domain Recommendation" in CIKM2019).
-DTCDR is the first work for dual-target cross-domain recommendation. Compared with DTCDR, we improved the embedding strategy (from DMF/NeuMF to Graph Embedding) and combination strategy (from fixed combination operators to element-wise attention). 
+DTCDR is the first work for dual-target cross-domain recommendation. Compared with DTCDR, we improved the embedding strategy (from DMF/NeuMF to Graph Embedding) and combination strategy (from fixed combination operators to element-wise attention). Also, our unified framework, i.e., "A Unified Framework for Cross-Domain and Cross-System Recommendations" (TKDE 2023), is also based on this GA-DTCDR model.
 
 As for the doc2vec code and the raw data including text information, I have shared the desensitization raw data at https://www.researchgate.net/publication/350793434_Douban_dataset_ratings_item_details_user_profiles_and_reviews. If you want to learn how to use Doc2vec, you can visit https://radimrehurek.com/gensim/models/doc2vec.html#gensim.models.doc2vec.Doc2Vec. 
 
